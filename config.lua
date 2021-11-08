@@ -190,10 +190,10 @@ QB.Doors = {
 		pickable = false,
 		distance = 1.25,
 	},
-	-- Interrogation 1
+	-- Interrogation 2
 	{
 		objName = 'gabz_mrpd_door_04',
-		objYaw = 90.0,
+		objYaw = 270.0,
 		objCoords  = vector3(482.6, -995.7, 26.4),
 		textCoords = vector3(482.6, -995.7, 26.4),
 		authorizedJobs = { 'police' },
